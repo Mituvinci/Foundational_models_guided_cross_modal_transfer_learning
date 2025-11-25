@@ -1,6 +1,6 @@
 # Cross-Modal Cell Cycle Classification via Dual-Encoder Transfer Learning
 
-Official implementation of "Cross-Modal Cell Cycle Classification via Dual-Encoder Transfer Learning with Foundation Model-Guided Domain Adaptation" (AAAI 2025 Workshop - Under Review)
+Official implementation of "Cross-Modal Cell Cycle Classification via Dual-Encoder Transfer Learning with Foundation Model-Guided Domain Adaptation" ( Workshop - Under Review)
 
 ## Overview
 
