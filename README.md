@@ -226,7 +226,7 @@ If you use this code, please cite:
 @inproceedings{anonymous2025crossmodal,
   title={Cross-Modal Cell Cycle Classification via Dual-Encoder Transfer Learning with Foundation Model-Guided Domain Adaptation},
   author={Anonymous},
-  booktitle={AAAI 2025 Workshop - Under Review},
+  booktitle={Under Review},
   year={2025}
 }
 ```
