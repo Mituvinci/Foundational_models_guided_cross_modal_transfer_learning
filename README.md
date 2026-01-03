@@ -223,11 +223,11 @@ Trains lightweight adapter (25,027 → 256-D) for cross-dataset peak alignment.
 If you use this code, please cite:
 
 ```bibtex
-@inproceedings{anonymous2025crossmodal,
-  title={Cross-Modal Cell Cycle Classification via Dual-Encoder Transfer Learning with Foundation Model-Guided Domain Adaptation},
-  author={Anonymous},
-  booktitle={Under Review},
-  year={2025}
+@inproceedings{
+  title={Cross-Modal Cell Cycle Phase Classification via Dual-Encoder Transfer Learning with Foundation Model Embeddings},
+  author={Halima Akhter 1,2, Gangqing Hu 2, Donald A. Adjeroh 1},
+  booktitle={AAAI Workshop 2026, Singapore },
+  year={2026}
 }
 ```
 
